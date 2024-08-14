@@ -1,0 +1,14 @@
+.brand {
+  display: flex;
+  align-items: center;
+}
+.brand h2 {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: aliceblue;
+}
+
+.brand-icon {
+  color: rgb(182, 46, 46);
+  font-size: 40px;
+}/*# sourceMappingURL=Brand.css.map */
